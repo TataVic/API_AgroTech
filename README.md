@@ -10,4 +10,4 @@ Com o método CRUD => Create (criar), Read (ler), Update (atualizar) e Delete (a
 
 E documentar os métodos no Swagger e realizada na linguagem de PHP e Javascript;
 
-Desenvolvido por  Bianca, Ryhan e Tauani 
+Desenvolvido por  Bianca, Ryhan e Tauani ❤️
